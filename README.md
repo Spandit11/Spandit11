@@ -32,6 +32,7 @@ My recent work focuses on designing and developing enterprise AI solutions using
 | ❤️ AI Health Insights Agent | Healthcare AI | ✅ Complete |
 
 > Detailed documentation, architecture diagrams, screenshots, and implementation details are available in each repository.
+--------------
 # 🚀 Featured Enterprise AI Solutions
 
 ## 🏗 Azure Architecture Copilot
