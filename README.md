@@ -179,7 +179,14 @@ Currently exploring and building enterprise solutions around:
 
 # 📈 GitHub Statistics
 
-> *(We'll add GitHub Stats and contribution badges in the next iteration.)*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Spandit11&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Spandit11&theme=github-dark&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spandit11&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
 ---
 
