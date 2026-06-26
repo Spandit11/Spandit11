@@ -24,12 +24,13 @@ My recent work focuses on designing and developing enterprise AI solutions using
 
 # 🚀 Featured Enterprise AI Solutions
 
-| Solution | Domain | Status |
+| Solution | Domain | Repository |
 |----------|--------|--------|
-| 🏗 Azure Architecture Copilot | Enterprise Architecture | ✅ Complete |
-| 🤖 AI Incident Management Agent | AIOps | ✅ Complete |
-| 🏦 Smart Banking Fraud Detection | Banking AI | ✅ Complete |
-| ❤️ AI Health Insights Agent | Healthcare AI | ✅ Complete |
+| 🏗 Azure Architecture Copilot    | Enterprise Architecture | 🔗 View    |
+| 🤖 AI Incident Management Agent  | AIOps                   | 🔗 View    |
+| 🏦 Smart Banking Fraud Detection | Banking AI              | 🔗 View    |
+| ❤️ AI Health Insights Agent      | Healthcare AI           | 🔗 View    |
+
 
 > Detailed documentation, architecture diagrams, screenshots, and implementation details are available in each repository
 ---
