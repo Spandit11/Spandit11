@@ -24,6 +24,16 @@ My recent work focuses on designing and developing enterprise AI solutions using
 
 # 🚀 Featured Enterprise AI Solutions
 
+| Solution | Domain | Status |
+|----------|--------|--------|
+| 🏗 Azure Architecture Copilot | Enterprise Architecture | ✅ Complete |
+| 🤖 AI Incident Management Agent | AIOps | ✅ Complete |
+| 🏦 Smart Banking Fraud Detection | Banking AI | ✅ Complete |
+| ❤️ AI Health Insights Agent | Healthcare AI | ✅ Complete |
+
+> Detailed documentation, architecture diagrams, screenshots, and implementation details are available in each repository.
+# 🚀 Featured Enterprise AI Solutions
+
 ## 🏗 Azure Architecture Copilot
 
 An AI-powered enterprise architecture assistant that automates Azure solution architecture generation, validates architectural decisions, and recommends Azure best practices using specialized AI agents.
