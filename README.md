@@ -4,7 +4,7 @@
 
 ### Azure Architecture | Enterprise Integration
 
-Welcome to my GitHub portfolio.
+Welcome to my Enterprise AI Engineering Portfolio.
 
 I'm a Generative AI & Agentic AI Specialist with 17+ years of experience designing enterprise software solutions, Azure cloud applications, and enterprise integration platforms.
 
